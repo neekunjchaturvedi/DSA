@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class Twodiff{
     public static void main(String[] args) {
         int []a={12,3,14,56,77,13};
